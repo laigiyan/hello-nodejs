@@ -1,6 +1,6 @@
 FROM node:8-alpine
 
-# Create app directoryy
+# Create app directoryyy
 WORKDIR /usr/src/app
 
 # Install app dependencies
